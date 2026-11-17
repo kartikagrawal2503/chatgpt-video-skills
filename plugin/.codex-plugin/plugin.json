@@ -1,0 +1,25 @@
+{
+  "name": "lemo-opuscar",
+  "version": "2.0.0",
+  "description": "Make a film in one of the library's code-rendered styles: your agent directs, draws, scores and mixes it.",
+  "author": { "name": "Lemomo", "url": "https://github.com/lemomo-ai" },
+  "homepage": "https://lemomo-ai.github.io/lemo-opuscar/",
+  "repository": "https://github.com/lemomo-ai/lemo-opuscar",
+  "license": "MIT AND CC-BY-NC-4.0",
+  "keywords": ["video", "film", "animation", "explainer", "motion-graphics"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Lemo-Opuscar Film Styles",
+    "shortDescription": "Make a short film in code, in one of 99 styles",
+    "longDescription": "A library of 99 film styles. Pick one, give a topic, and the agent writes the treatment, draws the frames, scores, voices, mixes and renders the film entirely in code, with no video model.",
+    "developerName": "Lemomo",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://lemomo-ai.github.io/lemo-opuscar/",
+    "defaultPrompt": [
+      "Which film styles are there?",
+      "Make a 60-second explainer about my topic in the Watercolor Brush style.",
+      "Help me make my own film style from a blank page."
+    ]
+  }
+}

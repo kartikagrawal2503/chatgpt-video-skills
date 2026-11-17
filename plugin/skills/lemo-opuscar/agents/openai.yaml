@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lemo-Opuscar Film Styles"
+  short_description: "Make a short film in code, in one of 99 styles"
+  default_prompt: "Make a 60-second explainer film about my topic in a Lemo-Opuscar style."
